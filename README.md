@@ -36,7 +36,7 @@ Place the dataset files inside the `data/` folder:
 ##  :bookmark_tabs: How to Run
 
 pip install -r requirements.txt  
-Open `notebooks/notebooks/ML_Project (7).ipynb` and run all cells.
+Open `notebooks/ML_Project (7).ipynb` and run all cells.
 
 ##  :bookmark_tabs: Models
 - Logistic Regression
