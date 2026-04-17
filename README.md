@@ -48,5 +48,5 @@ Open `notebooks/ML_Project (7).ipynb` and run all cells.
 ## :bookmark_tabs: Repository Structure
 - `data/` contains dataset files
 - `results/figures/` contains plots and figures
-- `notebooks/` contains the analysis notebook
-- `paper/` contains the final IEEE-format PDF
+- `notebooks/` contains the project notebook
+- `paper/` contains the IEEE report
